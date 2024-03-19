@@ -13,26 +13,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sardor1215&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabohat)
 
-<details>
-  <summary> Show Sabohat's Github Stats</summary>
-  <br>
-  
-  <a href="#">
-    <img align="center" alt="Sabohat Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabohat&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
-  </a>
-  
-  <a href="#">
-    <img align="center" alt="Sabohat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabohat&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
-  </a>
-</details>
-  
-<details>
-  <summary> Show Sabohat's Activity Graph </summary>
-  <br>
-  <a href="#">
-    <img align="center" alt="Sabohat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sabohat&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
-  </a>
 
-</details>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
